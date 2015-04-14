@@ -1,3 +1,5 @@
+package Activity05.Buggy4;
+
 /**
  * This is a class that tests the Deck class using assert statements.
  */
